@@ -7,6 +7,8 @@ body
     background-color: #3b599a;
     height: 3em;
     display: flex;
+    padding-bottom: 10px;
+    padding-top: 8px;
 }
 .nav
 {
@@ -24,12 +26,12 @@ body
 }
 .sec1
 {
-    height:1em;
+    height: 1.2em;
     margin-left: 2em;
-    padding:2px 20px;
+    padding: 2px 7px;
     margin-top: 15px;
     display: flex;
-    width: 17em;
+    width: 18em;
     background-color:white;
 }
 .t1{
@@ -37,7 +39,8 @@ body
 }
 .t1 h5{
     /* padding-left:100px; */
-    margin-top: 1px;
+    
+    margin-top: 3px;
     
     color:#3b599a;
 }
@@ -58,6 +61,8 @@ body
     height:2em;
     width:3em;
     background-color: #3b599a;
+    border-radius: 50%;
+    padding-top: 3px;
 }
 .txt1 h4{
     color:white;
@@ -67,6 +72,7 @@ body
 }
 .txt1{
     display:flex;
+    padding-left: 10px;
 }
 .l1{
     padding-top: 0.7em;
@@ -88,9 +94,17 @@ body
 {
     padding-left:3px;
 }
+.ic2
+{
+    padding-left: 6px;
+}
 .ic2 i 
 {
     padding-left:3px;
+}
+.ic3
+{
+    padding-left: 6px;
 }
 .ic3 i 
 {
@@ -194,7 +208,7 @@ body
 .mphoto img
 {
     height: 15em;
-    width: 40em;
+    width: 47em;
 }
 .box1
 {
@@ -214,9 +228,9 @@ body
 }
 .mid
 {
-    background-color: yellow;
+    background-color: white;
     /* display: flex; */
-    width:40em;
+    width:47em;
     height: 19em;
     margin-left: 2px;
     margin-left: 20px;
@@ -312,6 +326,7 @@ body
 .pho img
 {
     height: 3em;
+    padding-left: 14px;
 }
 .vw
 {
@@ -346,6 +361,7 @@ padding-left:0px;
 {
     padding-left: 107px;
 }
+
 #kirtesh
 {
     background-color: white;
@@ -353,22 +369,38 @@ padding-left:0px;
     height: 6em;
     width: 21.4em;
 }
+.kir 
+{
+    padding-left: 13px;
+}
 .limage
 {
     width:100%;
     background-color: white;
     margin-top:0em;
-    height:100%;
+    height: 39%;
 }
 .limage img{
     width: 100%;
     margin-top: 0em;
 }
+.last_block
+{
+    margin-top: 7px;
+    margin-left: 11px;
+}
 .cen 
 {
     width:54%;
-    background-color: white;
+    display: flex;
+    /* background-color: white; */
 
+}
+.cen1
+{
+    background-color: white;
+    margin-top: 28px;
+    /* height:5em; */
 }
 .slog
 {
@@ -378,5 +410,76 @@ padding-left:0px;
 .slog h4{
     padding-top: 1em;
     padding-bottom:1em;
+    padding-left: 18px;
+}
+.la1 h3{
+    background-color: white;
+    color:blue;
+    padding-left:15px;
+}
+.last_b1
+{
+    /* display:flex; */
+    background-color: white;
+}
+.lass1
+{
+    width:100%;
+    display:flex;
+}
+.see{
+    background-color: white;
+    height:2.5em;
+
+}
+.see h3
+{
+    padding-left: 185px;
+    padding-right: 11px;
+    width: 3em;
+    color: blue;
+    
+}
+.ll1 i
+{
+    padding-left:10px;
+}
+.ll1 a 
+{
+    text-decoration: none;
+    color:blue;
+    padding-left:1em;
+}
+.t1 
+{
+    padding-left:0em;
+}
+
+.ll_2 i
+{
+    padding-left:10px;
+    padding-top:10px;
+}
+.t2 
+{
+    padding-left:1em;
+}
+.ll_3 i
+{
+    padding-left:10px;
+    padding-top:10px;
+}
+.t3 
+{
+    padding-left:1em;
+}
+.ll_4 i
+{
+    padding-left:10px;
+    padding-top:10px;
+}
+.t4 
+{
+    padding-left:1em;
 }
 
