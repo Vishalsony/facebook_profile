@@ -1,0 +1,382 @@
+body
+{
+    background-color: #eaebef;
+}
+.header
+{
+    background-color: #3b599a;
+    height: 3em;
+    display: flex;
+}
+.nav
+{
+    display:flex;
+    
+    padding-left: 144px;
+}
+.image i
+{
+    background-color:#3b599a;
+    color:white;
+    padding-top:13px;
+    margin-left:0em;
+    margin-top: 4px;
+}
+.sec1
+{
+    height:1em;
+    margin-left: 2em;
+    padding:2px 20px;
+    margin-top: 15px;
+    display: flex;
+    width: 17em;
+    background-color:white;
+}
+.t1{
+    width:50%;
+}
+.t1 h5{
+    /* padding-left:100px; */
+    margin-top: 1px;
+    
+    color:#3b599a;
+}
+.srch i 
+{
+    padding-left:151px;
+    font-size:0.8em;
+}
+.nav2
+{
+    display: flex;
+    background-color:#3b599a;
+    padding-left:20px;
+    margin-left: 312px;
+    margin-top:6px;
+}
+.image2 img{
+    height:2em;
+    width:3em;
+    background-color: #3b599a;
+}
+.txt1 h4{
+    color:white;
+    height: 1em;
+    margin-top: 11px;
+    margin-left: 3px;
+}
+.txt1{
+    display:flex;
+}
+.l1{
+    padding-top: 0.7em;
+}
+.l1 a 
+{
+    text-decoration: none;
+    color:white;
+    margin-top: 1.7em;
+    margin-left: 1em;
+}
+.icon
+{
+    padding-top: 12px;
+    padding-left:10px;
+    margin-right:12px;
+}
+.ic1 i 
+{
+    padding-left:3px;
+}
+.ic2 i 
+{
+    padding-left:3px;
+}
+.ic3 i 
+{
+    padding-left:3px;
+}
+.ic4 i 
+{
+    padding-left:40px;
+}
+.ic5 i 
+{
+    padding-left:3px;
+}
+.p2
+{
+    padding-top:3px;
+    display: flex;
+}
+.part1
+{
+    /* background-color: #eaebef; */
+    background-color:#eaebef;
+    display: flex;
+    height:60%;
+    width:30%;
+}
+.left1
+{
+    padding-left:50%;
+    padding-bottom: 63px;
+}
+.image3 img
+{
+    height:7em;
+    width:10em;
+    margin-top:20px;
+}
+.he1
+{
+    color:#494b4d;
+    height:0em;
+}
+.he2
+{
+    color:#494b4d;
+}
+.menu
+{
+    background-color: #eaebef;
+}
+.m1 
+{
+    color:#494b4d;
+}
+.m1:hover
+{
+    background-color: aqua;
+}
+.m2 
+{
+    color:#494b4d;
+}
+.m2:hover
+{
+    background-color: aqua;
+}
+.m3 
+{
+    color:#494b4d;
+}
+.m3:hover
+{
+    background-color: aqua;
+}
+.m4 
+{
+    color:#494b4d;
+}
+.m4:hover
+{
+    background-color: aqua;
+}
+.m5 
+{
+    color:#494b4d;
+}
+.m5:hover
+{
+    background-color: aqua;
+}
+.btn
+{
+    color: rgb(237, 238, 237);
+    
+}
+.bt
+{
+    color:white;
+    background-color:rgb(14, 161, 38);
+}
+.mphoto img
+{
+    height: 15em;
+    width: 40em;
+}
+.box1
+{
+    padding-left: 9px;
+    display: flex;
+    width: 70%;
+}
+.log1
+{
+    padding-right: 10px;
+    color:white;
+}
+.b1
+{
+    display: flex;
+    padding-top: 11px;
+}
+.mid
+{
+    background-color: yellow;
+    /* display: flex; */
+    width:40em;
+    height: 19em;
+    margin-left: 2px;
+    margin-left: 20px;
+}
+.mid1
+{
+    display: flex;
+}
+.mid2
+{
+    display: flex;
+}
+.mid3
+{
+    display: flex;
+}
+
+.thumb i 
+{
+    padding-top:5px;
+    color:blue
+}
+.v1
+{
+    padding-top:5px;
+    padding-left:3px;
+    color:#3b599a;
+}
+.ar1 i 
+{
+    padding-left:3px;
+    padding-top:5px;
+}
+.wifi i 
+{
+    color:blue;
+    padding-top:5px;
+}
+.v2
+{
+    padding-top:5px;
+    padding-left:3px;
+    color:#3b599a;
+}
+.ar2 i 
+{
+    padding-left:3px;
+    padding-top:5px;
+}
+.share i 
+{
+    padding-top: 5px;
+    color:blue;
+}
+.v3
+{
+    padding-top:5px;
+    padding-left:3px;
+    color:#3b599a;
+}
+.ar3 i 
+{
+    padding-left:3px;
+    padding-top:5px;
+}
+.sign1
+{
+    padding-top: 12px;
+    padding-left: 79px;
+}
+.log
+{
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:12px;
+    width:18em;
+    background-color: #3b599a;
+}
+.center
+{
+    background-color: white;;
+    display:flex;
+    margin-top:30px;
+    margin-bottom: 0em;
+    margin-right:39%;
+    
+
+}
+.pho 
+{
+    /* background-color: #494b4d; */
+}
+.pho img
+{
+    height: 3em;
+}
+.vw
+{
+    padding-left:10px;
+    display:block;
+    width: 50%;
+}
+.vw h4
+{
+    color:#3b599a;
+    height:0em;
+    margin-top: 2px;
+    width: 12em;
+
+}
+.e 
+{
+padding-left:0px;
+}
+.e i
+{
+    height:2em;
+    width:2em;
+}
+.arrw
+{
+   
+    height: 1em;
+    width: 129px;
+}
+.arrw i 
+{
+    padding-left: 107px;
+}
+#kirtesh
+{
+    background-color: white;
+    margin-top: 0em;
+    height: 6em;
+    width: 21.4em;
+}
+.limage
+{
+    width:100%;
+    background-color: white;
+    margin-top:0em;
+    height:100%;
+}
+.limage img{
+    width: 100%;
+    margin-top: 0em;
+}
+.cen 
+{
+    width:54%;
+    background-color: white;
+
+}
+.slog
+{
+    background-color: white;
+    padding-top:0px;
+}
+.slog h4{
+    padding-top: 1em;
+    padding-bottom:1em;
+}
+
